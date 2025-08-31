@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["bench_client","print_bench_results"],"mod":["rolling_average"],"struct":["BenchResult","SerializableHistogramWrapper"]};
