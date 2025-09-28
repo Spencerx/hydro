@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"macro":["nondet","q"],"mod":["backtrace","boundedness","builder","cycle","deploy","deploy_runtime","graph","graph_util","ir","keyed_singleton","keyed_stream","location","optional","rewrites","runtime_context","singleton","stream","test_util","unsafety"]};
+window.SIDEBAR_ITEMS = {"macro":["__nondet__"],"mod":["compile","deploy","forward_handle","graph","live_collections","location","nondet","prelude","runtime_context","test_util"]};
